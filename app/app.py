@@ -37,4 +37,5 @@ while True:
     
     # Esperar 1 segundo antes de generar el siguiente dato
     time.sleep(1)
-    #mau es geei
+    
+    #create a 
